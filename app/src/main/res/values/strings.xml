@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TwiDo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_collection">CollectionActivity</string>
+
+    <string name="visibility">visibility</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+</resources>
